@@ -1,15 +1,15 @@
-barcodes-7.0.3.jar			http://itextpdf.com/
-font-asian-7.0.3.jar		http://itextpdf.com/
-forms-7.0.3.jar				http://itextpdf.com/
-hyph-7.0.3.jar				http://itextpdf.com/
-io-7.0.3.jar				http://itextpdf.com/
-jackson-dataformat-yaml-2.8.8.jar    https://github.com/FasterXML/jackson-dataformat-yaml/
-kernel-7.0.3.jar			http://itextpdf.com/
-layout-7.0.3.jar			http://itextpdf.com/
-pdfa-7.0.3.jar				http://itextpdf.com/
-sign-7.0.3.jar				http://itextpdf.com/
-snakeyaml-1.17.jar			https://github.com/TiFG/daily-codelab/tree/master/yaml-sample
+barcodes-7.0.3.jar			https://github.com/itext/itextpdf/blob/develop/LICENSE.md
+font-asian-7.0.3.jar		https://github.com/itext/itextpdf/blob/develop/LICENSE.md
+forms-7.0.3.jar				https://github.com/itext/itextpdf/blob/develop/LICENSE.md
+hyph-7.0.3.jar				https://github.com/itext/itextpdf/blob/develop/LICENSE.md
+io-7.0.3.jar				https://github.com/itext/itextpdf/blob/develop/LICENSE.md
+kernel-7.0.3.jar			https://github.com/itext/itextpdf/blob/develop/LICENSE.md
+layout-7.0.3.jar			https://github.com/itext/itextpdf/blob/develop/LICENSE.md
+pdfa-7.0.3.jar				https://github.com/itext/itextpdf/blob/develop/LICENSE.md
+sign-7.0.3.jar				https://github.com/itext/itextpdf/blob/develop/LICENSE.md
+snakeyaml-1.17.jar			http://www.apache.org/licenses/LICENSE-2.0.html
 
+jackson-dataformat-yaml-2.8.8.jar   http://www.apache.org/licenses/LICENSE-2.0.html
 jackson-annotations-2.8.0.jar		http://www.apache.org/licenses/LICENSE-2.0.html
 jackson-core-2.8.8.jar				http://www.apache.org/licenses/LICENSE-2.0.html
 jackson-databind-2.8.8.jar			http://www.apache.org/licenses/LICENSE-2.0.html
@@ -19,7 +19,7 @@ slf4f-log4j12-1.7.25.jar			https://www.slf4j.org/license.html
 -----------------
 
 TemplateGenerator.jar						http://www.apache.org/licenses/LICENSE-2.0.html
-gradle-wrapper.jar							https://gradle.org/
+gradle-wrapper.jar							http://www.apache.org/licenses/LICENSE-2.0.html
 commons-io-2.5.jar							http://www.apache.org/licenses/LICENSE-2.0.html
 commons-math3-3.6.1.jar						http://www.apache.org/licenses/LICENSE-2.0.html
 jackson-jaxrs-base-2.6.3.jar				http://www.apache.org/licenses/LICENSE-2.0.html
